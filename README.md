@@ -34,7 +34,7 @@ Before using this exporter, make sure you have:
 
 ```bash
 git clone https://github.com/fahadmuzzamil/Prometheus-Kafka_Mongo-SourceConnector-Exporter.git
-cd kafka-connector-exporter
+cd Prometheus-Kafka_Mongo-SourceConnector-Exporter
 ```
 ### 2. ✏️ Configure `.env` file
 Edit the `.env` file and replace with your actual Kafka Connect host:
