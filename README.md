@@ -60,8 +60,11 @@ curl -X GET http://localhost:8001/metrics
 ```
 
 ---
-# Images for refrence:
+## Images for refrence:
+Prometheus Query:
 ![Alt text](./images/prometheus.jpg)
+
+Grafana Dashbaord:
 ![Alt text](./images/grafana.jpg)
 
 ---
