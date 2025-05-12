@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  connector-exporter:
+    build: .
+    container_name: connector-exporter
+    ports:
+      - "8001:8001"
+    env_file:
+      - .env
