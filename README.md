@@ -33,7 +33,7 @@ Before using this exporter, make sure you have:
 ### 1. 🚀 Clone the repository
 
 ```bash
-git clone https://github.com/your-org/kafka-connector-exporter.git
+git clone https://github.com/fahadmuzzamil/Prometheus-Kafka_Mongo-SourceConnector-Exporter.git
 cd kafka-connector-exporter
 ```
 ### 2. ✏️ Configure `.env` file
