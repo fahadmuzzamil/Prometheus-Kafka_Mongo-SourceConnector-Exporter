@@ -78,7 +78,7 @@ See the [LICENSE](./LICENSE) file for details.
 
 ## 📬 Contact & Feedback
 
-If you have any questions, suggestions, or would like to collaborate, feel free to connect with me on [LinkedIn](www.linkedin.com/in/fahad-muzzamil-849262194).
+If you have any questions, suggestions, or would like to collaborate, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/fahad-muzzamil-849262194).
 
 > 💡 I'm always happy to discuss Kafka, DevOps, and open source contributions!
 
